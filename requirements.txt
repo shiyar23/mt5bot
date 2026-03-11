@@ -1,0 +1,3 @@
+python-telegram-bot==20.7
+metaapi-cloud-sdk==27.0.2
+asyncpg==0.29.0
